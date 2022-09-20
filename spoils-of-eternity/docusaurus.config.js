@@ -93,9 +93,6 @@ const config = {
               },
             ],
           },
-          {},
-          {},
-          {},
           {
             title: 'Community',
             items: [
@@ -112,6 +109,15 @@ const config = {
                 href: 'https://twitter.com/spoilseternity',
               },
             ],
+          },
+          {
+            title: 'Privacy Policy',
+            items: [
+              {
+                label: 'Privacy Policy',
+                to: '/docs/misc/privacy-policy',
+              }
+            ]
           },
           // {
           //   title: 'More',
