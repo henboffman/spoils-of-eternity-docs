@@ -1,6 +1,6 @@
 ---
-slug: welcome
-title: Welcome
+slug: about
+title: About Spoils of Eternity
 authors: [hoffchops]
 tags: [initial]
 ---

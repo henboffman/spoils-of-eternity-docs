@@ -69,12 +69,12 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
-          // {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+          { to: '/blog', label: 'Release Notes', position: 'left' },
+          {
+            href: 'https://apps.apple.com/us/app/spoils-of-eternity/id6443438207',
+            label: 'Download',
+            position: 'left',
+          },
         ],
       },
       footer: {
@@ -88,7 +88,7 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                label: 'Blog',
+                label: 'Release Notes',
                 to: '/blog',
               },
             ],
