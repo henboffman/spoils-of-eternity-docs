@@ -39,11 +39,10 @@ export default function Home() {
       {/* <div className="bg">
       </div> */}
       {/* <HomepageHeader /> */}
-      <main>
-        {/* <img src={require('./../../static/img/background.jpg')} /> */}
+      {/* <main className="test">
 
-        {/* <HomepageFeatures /> */}
-      </main>
+        <HomepageFeatures />
+      </main> */}
     </Layout>
   );
 }
