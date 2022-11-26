@@ -4,24 +4,5 @@ sidebar_position: 2
 
 # Create a Character
 
-There are five classes available in Spoils of Eternity
+To limit scope for initial release, only the warrior/barbarian class will be built at launch, with intent to add additional classes in later version of the game. 
 
-## Barbarian
-
-Primary stat: **Strength**
-
-## Rogue
-
-Primary stat: **Dexterity**
-
-## Archer
-
-Primary stat: **Dexterity**
-
-## Sorceress
-
-Primary stat: **Intelligence**
-
-## Necromancer
-
-Primary stat: **Intelligence**
