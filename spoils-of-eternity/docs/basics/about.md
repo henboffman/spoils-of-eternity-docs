@@ -4,4 +4,4 @@ sidebar_position: 1
 
 # About Spoils of Eternity
 
-Spoils of Eternity was created to fill a void in mobile games for an action RPG driven by loot without being living off of microtransactions. This is a learning project for me, but something that I've wanted on mobile for quite a while. Support and updates will be best effort to keep this free. 
+I'm creating Spoils of Eternity to fill a void in mobile games for a casual action RPG driven by loot. Designed for portrait orientation so that you don't need to get into game mode to play it, and devoid of premium currency. Support and updates will be best effort to keep this free.
